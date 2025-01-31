@@ -1,0 +1,15 @@
+{
+  "name": "@fastrp/wiki",
+  "type": "module",
+  "scripts": {
+    "validate": "bun scripts/validate-content.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "chalk": "^5.4.1",
+    "prettier": "^3.4.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
