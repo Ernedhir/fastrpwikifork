@@ -5,11 +5,6 @@
 > Şu an görüntülediğiniz sunucu politikaları henüz tamamlanmamıştır. Bu, başlangıç niteliğinde bir taslaktır ve ilerleyen süreçte birçok ekleme ve düzenleme yapılacaktır.
 >Lütfen güncellenmemiş veya eksik maddelerle ilgili herhangi bir işlem yapılmadan önce nihai sürümün duyurulmasını bekleyin. Güncellemeler için bizi takip etmeye devam edin!
 
-### Tek Hesap - Multi Account
-#### Açıklama: 
-* Üyenin kendine ait en fazla 1 adet ana hesabı olabilir. Aynı IP üzerinden 3 tane hesabı aynı bilgisayar üzerinden 1 tane hesabı olabilir. Bu ana hesap dışında başka bir ana hesap açamaz.
-#### İhlalinde: 
-* Üyenin başka ana hesaplara giriş çıkışları, bağlantılarının tespit edilmesi, itirafı vb. durumların tamamında üyeye ait veya ilişkili tüm ana hesaplar süresiz olarak yasaklanır.
 
 ### Hesap Paylaşımı
 #### Açıklama: 
