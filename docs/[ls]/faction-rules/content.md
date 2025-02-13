@@ -13,13 +13,13 @@
 ### Onaylı Birlik & Hood Kuralları
 #### Açıklama:
 * Birliklerin hood onayı kazanmasıyla o bölgede ayrıcalık elde ederler.
-* Geçmişte hood onayı kazanmış bir birlik tekrar aktif olduğunda resmi olarak hood onayı verilmeden, hood onayına sahipmiş gibi hareket edemez.
+* Geçmişte hood onayı kazanmış bir birlik tekrar aktif olduğunda resmi olarak (sistemsel) hood onayı verilmeden hood onayına sahipmiş gibi hareket edemez.
 * İllegal birlikler güvenli bölgelerde hood alanı seçemez.
 
 
 ### Birliğin FMT Tarafından Kapatılması
 #### Açıklama:
-* Üye sayısı dikkate alınmaksızın bir birlik genel sunucu kurallarına aykırı hareket ediyor ve sunucu huzurunu kaçırıcı eylemlerde bulunuyorsa, FMT tarafından uyarı yapılmadan kapatılabilir. Bir birliğe karşı amaçsız saldırılarda bulunmak, sürekli mix veya DM yapmak bu sebeplerin en başında gelmektedir. FMT uyarılarını dinlemek zorundasınız. Birlik liderleri her üyesinden sorumludur.
+* Bir birlik; genel sunucu kurallarına aykırı hareket ediyor ve sunucu huzurunu kaçırıcı eylemlerde bulunuyorsa, üye sayısı dikkate alınmaksızın, FMT tarafından uyarı yapılmadan kapatılabilir. Bir birliğe karşı amaçsız saldırılarda bulunmak, sürekli Mixing veya DM yapmak bu sebeplerin en başında gelmektedir. FMT uyarılarını dinlemek zorundasınız. Birlik liderleri her üyesinden sorumludur.
 * FMT tarafından kapatılan birlikler aynı isimle yeniden oluşturulamaz. Birlik malvarlıklarının tamamına veya bir kısmına el koyulabilir.
 
 ### Yasaklı Birlik Konseptleri
