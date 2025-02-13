@@ -6,20 +6,19 @@
 
 ### OOC Ticaret
 #### Açıklama:
-* Sunucuda hesap, eşya, araç ve mülk herhangi bir şekilde OOC para ile satılamaz. Satışı veyahut satış girişiminin tespitinde alan kişi de, satan kişi de sunucudan kalıcı olarak engellenir ve ticareti yapılan varlıklar silinir.
-* Donate ürünlerin, OOC olarak satılması, takaslanması kesinlikle yasaktır. Eğer bunlara yönetim el koyarsa alan kişi hiçbir hak talep edemez.
+* Sunucuda; hesap, eşya/eşyalar, araç ve mülk herhangi bir şekilde OOC para ile satılamaz. Satışı veyahut satış girişiminin tespitinde alan kişi ile satan kişi sunucudan kalıcı olarak yasaklanır ve ticareti yapılan varlıklar silinir.
+* Donate ürünlerin OOC olarak satılması, takaslanması kesinlikle yasaktır. Eğer bunları yönetim tespit edip el koyarsa alan kişi hiçbir hak talep edemez.
 
 ### IC Ticaret
 #### Açıklama:
-* Ticaretlerinizi belirli sistem üzerinden güvenle yapmalısınız.
-* Satacağınız veya alacağınız üründe belirlenen bir limit var ise buna uymalısınız.
+* Ticaretlerinizi belirli sistem üzerinden (Takas) güvenle yapmalısınız.
+* Satacağınız veya alacağınız üründe belirlenen bir limit varsa buna uymalısınız.
 
 ### Dolandırıcılık
 #### Açıklama:
 * Sunucuda dolandırıcılık rolü yasaktır.
 * Dolandırıcılığın açıklaması, savunması olamaz.
-* Dolandıran kişi uzlaşmayı kabul etmez ise sunucudan kalıcı olarak uzaklaştırılır.
-* Ticaretlerinizde takas sistemi kullanmalısınız.
+* Mağdur; uzlaşmayı kabul etmezse dolandırıcı, suçlanan kişi, sunucudan kalıcı olarak uzaklaştırılır.
 * Dolandırıcılık rolleri yasak da olsa ticaretlerinizde her zaman en güvenli yöntemi seçmelisiniz. Kendinizi garantiye almalısınız. 
 
 **Devam edecek...**
