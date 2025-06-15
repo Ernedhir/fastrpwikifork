@@ -39,8 +39,8 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 
 ## 🧩 RageMP Kurulumu
 
-1. 🔗 Linke tıklayarak RageMP'yi yükleyin:  
-   [RAGE Multiplayer İndir](https://rage.mp)
+1. 🔗 Linke tıklayarak RageMP'yi yükleyin.
+[RAGE Multiplayer İndir](https://rage.mp)
 
 2. 📥 Açılan pencereden devam edin.
     ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragempsetup.png)
