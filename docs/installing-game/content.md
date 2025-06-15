@@ -5,9 +5,9 @@
 
 | Bağlantılar | Açıklama |
 |-------|----------|
-| [GTA:V Kurulumu](#gta:v-kurulumu) | Buradan nasıl GTA:V kurulumu yapabileceğinizi görüntüleyebilirsiniz. |
+| [GTA 5 Kurulumu](#gta-5-kurulumu) | Buradan nasıl GTA:V kurulumu yapabileceğinizi görüntüleyebilirsiniz. |
 | [RageMP Kurulumu](#ragemp-kurulumu) | Buradan RageMP kurulumunu görüntüleyebilirsiniz.  |
-| [Son Adım](#son-adim) | RageMP üzerinden sunucuya nasıl giriş yapabileceğinizi görüntüleyebilirsiniz. |
+| [Son](#son) | RageMP üzerinden sunucuya nasıl giriş yapabileceğinizi görüntüleyebilirsiniz. |
 
 
 ## GTA:V Kurulumu
@@ -19,13 +19,13 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 ## Rockstar Games Kurulumu
 1. Yüklenen GTA:V'yi çalıştırın.
     1.1 Karşınıza gelen Language Select ekranından "English" seçeneğini seçip devam edin.
-![](../../images/language-select.png)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/language-select.png)
 2. Açılan pencereden "Continue" butonuna tıklayarak devam edin.
-![](../../images/welcome.png)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/welcome.png)
 3. Şartları okuyun ve sol aşağıdaki butonu tikleyin ve bir sonraki aşamaya geçin.
-![](../../images/terms.png)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/terms.png)
 4. Kurulum lokasyonu seçin. Varsayılan olarak kullanmanız tavsiye edilir.
-![](../../images/location.png)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/location.png)
 5. Açılan pencereyi kapatarak kurulumu tamamlayın.
 ---
 
@@ -33,14 +33,14 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 1. Linke tıklayarak RageMP'yi yükleyin.
 [RAGE Multiplayer İndir](https://rage.mp)
 2. Açılan pencereden devam edin.
-![](../../images/ragempsetup.png)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragempsetup.png)
 3. Lisans anlaşmasını okuyup kabul edin.
-![](../../images/license.png)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/license.png)
 4. Kurulum için hedef dosyayı seçin ve kurulumu tamamlayın.
-![alt text](../../images/destination.png)
+![alt text](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/destination.png)
 ---
-## Son Adım
+## Son
 * Sağ üstte bulunan "Hızlı Bağlantı" butonuna tıklayarak açın. Ardından aşağıdaki IP'yi girip Fast'in tadını çıkarın.
 `play-ist.fast-rp.com`
-![](../../images/ragemplogin.png)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragemplogin.png)
 
