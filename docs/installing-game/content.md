@@ -57,6 +57,6 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 ## 🚀 Son
 
 🔓 Sağ üstte bulunan "**Hızlı Bağlantı**" butonuna tıklayın. Ardından aşağıdaki IP'yi girerek Fast'in tadını çıkarın:
-
+```play-ist.fast-rp.com```
 ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragemplogin.png)
 
