@@ -25,7 +25,6 @@
 ### Yasaklı Birlik Konseptleri
 #### Açıklama:
 * Etnik veya dini kimlikleri merkeze alarak aşırı milliyetçi, ayrıştırıcı ya da radikal bir yapı kurmak.
-* Arap, Kürt vb. etnik grupların temsiliyle, gerçek dünyadaki çatışmalara referans veren silahlı gruplar oluşturmak.
+* Terörizm/terörist rolleri ve bu tür birlik konseptleri yasaklanmıştır.
 * Şeriat devleti, aşiret devleti, cihatçı yapı gibi siyasi/ideolojik söylemler içeren organizasyonlar kurmak.
 
-Devam edecek...
