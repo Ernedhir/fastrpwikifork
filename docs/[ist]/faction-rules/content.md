@@ -28,5 +28,4 @@
 * Arap, Kürt vb. etnik grupların temsiliyle, gerçek dünyadaki çatışmalara referans veren silahlı gruplar oluşturmak.
 * Şeriat devleti, aşiret devleti, cihatçı yapı gibi siyasi/ideolojik söylemler içeren organizasyonlar kurmak.
 
-
-**Devam edecek...**
+Devam edecek...
