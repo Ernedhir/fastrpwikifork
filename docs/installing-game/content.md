@@ -43,13 +43,13 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
    [RAGE Multiplayer İndir](https://rage.mp)
 
 2. 📥 Açılan pencereden devam edin.
-![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragempsetup.png)
+    ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragempsetup.png)
 
 3. 📃 Lisans anlaşmasını okuyup kabul edin.
-![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/license.png)
+    ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/license.png)
 
 4. 🗂️ Kurulum için hedef dosyayı seçin ve kurulumu tamamlayın.
-![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/destination.png)
+    ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/destination.png)
 
 ---
 
