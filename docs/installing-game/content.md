@@ -6,8 +6,8 @@
 | Bağlantılar | Açıklama |
 |-------|----------|
 | [GTA:V Kurulumu](#gta:v-kurulumu) | Buradan nasıl GTA:V kurulumu yapabileceğinizi görüntüleyebilirsiniz. |
-| [RageMP Kurulumu](#ragemp-kurulumu) | Fast:V'ye  |
-| [Sunucuya Katılma](#sunucuya-katılma) | RAGE MP ile sunucuya giriş rehberi |
+| [RageMP Kurulumu](#ragemp-kurulumu) | Buradan RageMP kurulumunu görüntüleyebilirsiniz.  |
+| [Son Adım](#son-adim) | RageMP üzerinden sunucuya nasıl giriş yapabileceğinizi görüntüleyebilirsiniz. |
 
 
 ## GTA:V Kurulumu
@@ -39,7 +39,7 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 4. Kurulum için hedef dosyayı seçin ve kurulumu tamamlayın.
 ![alt text](../../images/destination.png)
 ---
-## Fast:V - Son Adım
+## Son Adım
 * Sağ üstte bulunan "Hızlı Bağlantı" butonuna tıklayarak açın. Ardından aşağıdaki IP'yi girip Fast'in tadını çıkarın.
 `play-ist.fast-rp.com`
 ![](../../images/ragemplogin.png)
