@@ -6,25 +6,25 @@
 
 ### Birlik Kuralları
 #### Açıklama:
-* Illegal illegali polise ihbar edemez.
-* Sevkiyat için birlik tarafından üyelerden toplanan para, sadece sevkiyat için kullanılabilir. Sevkiyatın olmaması durumunda üyeye iade edilmelidir.
+* İllegal illegali polise ihbar edemez.
+* Sevkiyat için üyelerden, birlik adına, toplanan para; sadece sevkiyat için kullanılabilir. Sevkiyatın olmaması durumunda üyelere iade edilmelidir.
 * Birlik liderlerinin karakter tanıtımı olmadan birlik onayı alınamaz.
 
 ### Onaylı Birlik & Hood Kuralları
 #### Açıklama:
-* Birliklerin hood onayı kazanmasıyla o bölgede ayrıcalık elde ederler.
-* Geçmişte hood onayı kazanmış bir birlik tekrar aktif olduğunda resmi olarak hood onayı verilmeden, hood onayına sahipmiş gibi hareket edemez.
-* İllegal birlikler güvenli bölgelerde hood alanı seçemez.
+* Birlikler, hood onayı kazanmasıyla o bölgede ayrıcalık elde ederler.
+* Geçmişte hood onayı kazanmış bir birlik tekrar aktif olduğunda resmi olarak hood onayı verilmeden hood onayına sahipmiş gibi hareket edemez.
+* İllegal birlikler hood alanları olarak güvenli bölge içerisindeki yerleri seçemez.
 
 
 ### Birliğin FMT Tarafından Kapatılması
 #### Açıklama:
-* Üye sayısı dikkate alınmaksızın bir birlik genel sunucu kurallarına aykırı hareket ediyor ve sunucu huzurunu kaçırıcı eylemlerde bulunuyorsa, FMT tarafından uyarı yapılmadan kapatılabilir. Bir birliğe karşı amaçsız saldırılarda bulunmak, sürekli mix veya DM yapmak bu sebeplerin en başında gelmektedir. FMT uyarılarını dinlemek zorundasınız. Birlik liderleri her üyesinden sorumludur.
-* FMT tarafından kapatılan birlikler aynı isimle yeniden oluşturulamaz. Birlik malvarlıklarının tamamına veya bir kısmına el koyulabilir.
+* Üye sayısı dikkate alınmaksızın bir birlik genel sunucu kurallarına aykırı hareket etmesi ve/veya sunucu huzurunu kaçırıcı eylemlerde bulunması durumunda FMT tarafından uyarı yapılmadan kapatılabilir. Bir birliğe karşı amaçsız saldırılarda bulunmak, sürekli Mixing veya DM kural ihlallerini yapmak bu sebeplerin en başında gelmektedir. FMT uyarılarını dinlemek zorundasınız. Birlik liderleri, her üyesinden sorumludur.
+* FMT tarafından kapatılan birlikler aynı isimle yeniden oluşturulamaz. Birlik mal varlıklarının tamamına veya bir kısmına el koyulabilir.
 
 ### Yasaklı Birlik Konseptleri
 #### Açıklama:
 * Etnik veya dini kimlikleri merkeze alarak aşırı milliyetçi, ayrıştırıcı ya da radikal bir yapı kurmak.
-* Terörizm/terörist rolleri ve bu tür birlik konseptleri yasaklanmıştır.
 * Şeriat devleti, aşiret devleti, cihatçı yapı gibi siyasi/ideolojik söylemler içeren organizasyonlar kurmak.
+* Kısacası; Terörizm/terörist rolleri, ayrıştırıcı oluşumlar ve benzeri birlik konseptleri yasaklanmıştır.
 
