@@ -1,4 +1,4 @@
-# Terms
+# Terminoloji
 
 > ## Önemli not
 > Şu an görüntülediğiniz sunucu politikaları henüz tamamlanmamıştır. Bu, başlangıç niteliğinde bir taslaktır ve ilerleyen süreçte birçok ekleme ve düzenleme yapılacaktır.
@@ -7,11 +7,11 @@
 
 ### Non RP
 #### Açıklama: 
-* Kullanıcılar yönettikleri karakterleri OOC olarak oyun mantığında canlandıramazlar. Karakterin bulunması gereken durumu canlandırmamak, dışarıdaki koşulları yok saymak, IC yaşanan olumsuz fiziksel durumları göz ardı etmek yasaktır. Genel olarak rol kavramına aykırı sayılan ihlaller Non RP olarak adlandırılabilir.
+* Kullanıcılar yönettikleri karakterleri oyun mantığında değil gerçek hayat mantığına göre canlandırmalıdırlar. Karakterin bulunması gereken durumu canlandırmamak, dışarıdaki koşulları yok saymak, IC yaşanan olumsuz fiziksel durumları göz ardı etmek yasaktır. Genel olarak rol kavramına aykırı sayılan ihlaller Non RP olarak adlandırılabilir.
 #### Örnek: 
 * Baygın halde bağırmak, telefon ya da telsiz kullanmak.
-* Polis kovalamacasında araçları arkasından takip etmek hatta ve hatta onlara çarparak etkisiz hale getirmeye/polise ekiplerimize yardım etmeye çalışmak.
-* Yüksek promil alkol veya uyarıcı madde etkisinde normal bir insanın sergileyebileceği kadar davranışlar sergilemek.
+* Polis kovalamacasında araçları arkasından takip etmek hatta ve hatta onlara çarparak etkisiz hale getirmeye çalışmak/polise ekiplerine yardım etmeye çalışmak.
+* Yüksek promil alkol ve/veya uyarıcı madde etkisinde bir insanın sergileyemeyeceği kadar "normal" davranışlar sergilemek.
 * Polisin şeritle kapattığı alana zorla girmeye çalışmak.
 * Polisin sizi bölgeden uzaklaştırma çabalarına direnmek.
 
@@ -21,11 +21,11 @@
 
 ### Car-Jacking (CJ)
 #### Açıklama: 
-* Ortada hiçbir neden yokken bir aracın yanına gidip, şoförü indirerek aracı çalmak bir rol değildir. Emote veya benzeri şekilde kapıyı açıp aracı çalmaya çalışmak aynı şekilde yasaktır.
+* Ortada hiçbir neden yokken bir aracın yanına gidip şoförü indirerek aracı çalmak bir rol değildir. Emote veya benzeri şekilde kapıyı açıp aracı çalmaya çalışmak da, aynı şekilde, yasaktır.
 
 ### Car Surfing
 #### Açıklama:
-* Herhangi bir kara veya hava aracında koltuk dışında seyahat edemezsiniz. Aracın çatısında ilerlemek veya bir kişiyi OOC olarak bir yere bu şekilde ulaştırmak kesinlikle yasaktır.
+* Herhangi bir kara ya da hava aracında koltuk dışında seyahat edemezsiniz. Aracın çatısında ilerlemek veya bir kişiyi bu yollarla bir yere bu şekilde ulaştırmak kesinlikle yasaktır.
 
 ### Powergaming 
 #### Açıklama:
@@ -39,34 +39,34 @@
 
 ### Deathmatch (DM)
 #### Açıklama:
-* Deathmatch (DM) hiç bir koşulda kabul edilemez. Bir kişinin sebepsiz olarak etrafa ateş açması veya hiç bir şekilde rol yapmadığı bir kişiye sebepsiz saldırması veya ateş etmek için yeterli sebebinin olmaması DM kapsamınca değerlendirilir.
+* Deathmatch (DM) hiçbir koşulda kabul edilemez. Bir kişinin sebepsiz olarak etrafa ateş açması, rol yapmadığı bir kişiye sebepsiz yere saldırması veya sebebinin yeterli olmaması DM kapsamınca değerlendirilir.
 
 ### Fear RP
 #### Açıklama:
-* Rol sırasında korku rolü yapılması gereken durumlarda karakterinizin korku rolü yapması gerekmektedir. Agresif rollerde karşı taraf sizden kalabalıksa veya size ciddi zarar verebilecek ateşli silah/kesici alet kullanıyorsa karakterinizi korkmuş olarak yönetmelisiniz.
+* Rol sırasında karakterinizin korkması gereken durumlarda korku rolü yapmanız gerekmektedir. Agresif rollerde karşı taraf sizden kalabalıksa veya size ciddi zarar verebilecek ateşli silah/kesici alet kullanıyorsa karakterinizi korkmuş olarak yönetmelisiniz.
 
-* **Not:** Bu kural kapsamında size karşı Fear-RP yapan birisine "Baba de, baban benim, ağla, havla." tarzı roleplay mantığına yakışmayan direktifler veremezsiniz.
+* **Not:** Bu kural kapsamında size karşı Fear-RP yapan birisine "Baba de, baban benim, ağla, havla." tarzı, roleplay mantığına yakışmayan, direktifler veremezsiniz.
 
 ### Revenge Kill (RK)
 #### Açıklama: 
 * Ölüm sonrası spawn olduktan hemen sonra sizi öldüren kişiyi bulup öldürülmesi durumudur.
-* Sistemsel olarak ölen bir kişi ayağa kalkıp tekrar saldırıya/çatışmaya devam edemez.
-* Ateşli silah ile yaralandığınız durumlarda ... saat çatışma veya ofansiflik içeren rollere giremezsiniz. Bu kural, kolluk kuvvetleri rolü yapan oyuncular için otuz dakika olarak belirlenmiştir.
+* Sistemsel olarak ölen bir kişi ayağa kalkıp tekrar çatışmaya devam edemez.
+* Ateşli silah ile yaralandığınız durumlarda ... saat çatışma veya ofansiflik içeren rollere giremezsiniz. Bu kural, kolluk kuvvetleri rolü yapan oyuncular için ... dakika olarak belirlenmiştir.
 
 ### Bunny Hopping
 #### Açıklama:
-* Zıplayarak daha hızlı mesafe katetme birçok oyunda mevcut olan bir mekaniktir. Bu nedenle zıplayarak herhangi bir yerden, başka bir yere hareket edemezsiniz. Bu durum sistemsel olarak engellenmeye çalışılmıştır. Sistemsel olarak bu durumu aşmaya çalışmak bug kullanım kapsamında da değerlendirilir.
+* Zıplayarak daha hızlı mesafe katetme birçok oyunda mevcut olan bir mekaniktir ama gerçek hayata uymayan bir durumdur. Bu nedenle zıplayarak herhangi bir yerden başka bir yere hareket edemezsiniz. Bu durum sistemsel olarak engellenmeye çalışılmıştır. Sistemsel olarak bu durumu aşmaya çalışmak bug kullanımı kapsamında da değerlendirilir.
 
 ### Car Ramming
 #### Açıklama:
 * 2 kişiden fazla bir grubun arasına araçla çarpmak yasaktır.
-* Rolsel bir kişiye araçla çarpılabilir fakat araçla üzerinde bekleyerek ölmesi beklenmesi yasaktır.
+* Rolsel olarak "bir" kişiye araçla çarpılabilir fakat araçla üzerinde bekleyerek ölmesi beklenmesi yasaktır.
 
 ### Hatalı Emote
 #### Açıklama: 
-* /do komutu, bir şeyi belirtmek, betimlemek veya sistemsel olarak gösteremeyeceğimiz şeyleri göstermek için kullanılır. OOC bir şey için hiçbir koşulda kullanılamaz. Aksi kullanımlar hatalı kabul edilir.
+* /do komutu; bir şeyi belirtmek, betimlemek veya sistemsel olarak gösteremeyeceğimiz şeyleri göstermek için kullanılır. OOC bir şey için hiçbir koşulda kullanılamaz. Aksi kullanımlar hatalı kabul edilir.
 
-* /me komutu, yaptığınız eylemleri belirtirken kullanılır.OOC bir şey için hiçbir koşulda kullanılamaz. Aksi kullanımlar hatalı kabul edilir.
+* /me komutu, yaptığınız eylemleri belirtirken kullanılır. OOC bir şey için hiçbir koşulda kullanılamaz. Aksi kullanımlar hatalı kabul edilir.
 
 ### Brawl Kural İhlali
 #### Açıklama:
@@ -75,11 +75,11 @@
 
 ### RefuseRP 
 #### Açıklama:
-* Olan rolü kabul etmemek, oyundan çıkış sağlayarak veyahut karakter değiştirip rolden kaçmak, yapılan rolün sonucunu beğenmeyip devam etmemek ve benzeri durumlar yasaktır. 
+* Olan rolü kabul etmemek, oyundan çıkış sağlayarak veyahut karakter değiştirerek rolden kaçmak, yapılan rolün sonucunu beğenmeyip devam etmemek ve benzeri durumlar yasaktır. 
 
 ### Güvenli Bölgeler Kuralı
 #### Açıklama:
-Sunucuda belirli alanlar, yasadışı ve agresif rollerin yasak olduğu güvenli bölgeler olarak kabul edilir. Bu alanlarda suç işlemek, kavga çıkarmak, soygun yapmak, adam kaçırmak veya herhangi bir agresif eylem sergilemek yasaktır.
+* Önceden belirlenmiş alanlar, yasa dışı ve agresif rollerin yasak olduğu güvenli bölgeler olarak kabul edilir. Bu alanlarda suç işlemek, kavga çıkarmak, soygun yapmak, adam kaçırmak veya herhangi agresif bir eylem sergilemek yasaktır.
 
 Güvenli bölgeler, oyuncuların rol bütünlüğünü ve oyun deneyimini korumak amacıyla belirlenmiştir. Hem yasal hem de sivil rollerin sağlıklı şekilde işleyebilmesi için bu kurallara sıkı şekilde uyulmalıdır.
 
@@ -96,15 +96,15 @@ Kumarhaneler (Diamond Casino ve benzeri yerler)
 Kıyafet mağazaları (Tüm giyim ve aksesuar mağazaları)
 Marketler
 Haber kurumları (LifeInvader, gazete ofisleri vb.)
-Kiliseler (Tüm ibadethanelerin içi)
+Tüm ibadethanelerin içi
 Del Perro Beach ve Vespucci bölgesi (Turistik alanların merkezi)
 
  **Güvenli Bölgelerde Yasak Olan Davranışlar:**
 * Maske takmak veya yüzü gizleyen aksesuarlar kullanmak yasaktır. (Kolluk kuvvetleri hariç.)
 * Herhangi bir suç işlemek veya suça teşvik etmek yasaktır. (Soygun, kaçırma, gasp vb.)
 - Silahlı çatışma, fiziksel saldırı veya agresif RP sergilemek yasaktır.
-- Bu bölgelerde "Story RP" haricinde yasa dışı eylemler yapılamaz. (Örneğin, bir banka soygunu IC olarak büyük bir senaryo ile işlenebilir ancak bireysel soygunlar yapılamaz.)
-- Rol dışı kaçış noktası olarak kullanılamaz. (Örneğin, çatışmadan kaçarken güvenli bölgeye sığınıp kurtulamazsınız.)
+- Bu bölgelerde "Story RP" haricinde yasa dışı eylemler yapılamaz. (Örneğin: Bir banka soygunu IC olarak büyük bir senaryo ile işlenebilir ancak bireysel soygunlar yapılamaz.)
+- Rolden kaçış noktası olarak kullanılamaz. (Örneğin, çatışmadan kaçarken güvenli bölgeye sığınıp kurtulamazsınız.)
 **Ek Kurallar ve IC Bağlam:**
 * Kolluk kuvvetleri, güvenli bölgeleri IC olarak denetleyebilir ve burada düzeni sağlamakla yükümlüdür. Rol mantığında düşünüldüğünde güvenli bölgelerin güvenli olmasını sağlayan, kolluk kuvvetleridir. Bu yüzden yukarıdaki kuralların çoğundan bu oluşumlar muaftır.
 
@@ -113,9 +113,9 @@ Sistem tarafından belirlenmiş bazı özel bölgeler, listede olmasa bile güve
 
 ### Mixing
 #### Açıklama:
-* Mixing, IC ve OOC olayları birbirine karıştırmaktır. Karakteriniz, sizin gerçek hayattaki bilginiz, geçmişiniz veya bağlantılarınızdan etkilenemez.
+* Mixing, IC ve OOC olayları birbirine karıştırmaktır. Karakteriniz; sizin gerçek hayattaki bilginiz, geçmişiniz veya bağlantılarınızdan etkilenemez.
 
-Bir oyuncunun oyun dışında tanıdığı birini, IC olarak datanıyormuş gibi göstermesi, OOC yollarla IC bilgi paylaşmasaı veya IC bilgileri OOC olarak aktarması Mixing kapsamına girer ve yasaktır. 
+Bir oyuncunun oyun dışında tanıdığı birini IC olarak tanıyormuş gibi göstermesi veya IC bilgileri OOC olarak aktarması Mixing kapsamına girer ve yasaktır. 
 
 **Mixing Kapsamına Giren Davranışlar**
 - OOC yollarla IC bilgi edinmek ve bunu rol içinde kullanmak. (Discord'dan bir arkadaşınızın kaçırıldığını öğrenip karakterinizi bu role dahil etmek.)
@@ -137,18 +137,18 @@ Bir oyuncunun oyun dışında tanıdığı birini, IC olarak datanıyormuş gibi
 ### Bug Abuse (Hata Suistimali)
 #### Açıklama:
 
-* Bug abuse, oyun içindeki bir hatayı kişisel çıkarlar için kasıtlı olarak kullanmak veya suistimal etmektir. Eğer bir hata keşfederseniz, bunu yetkili kadrosuna bildirmelisiniz.
+* Bug abuse, oyun içindeki bir hatayı kişisel çıkarlar için kasıtlı olarak kullanmak veya suistimal etmektir. Eğer bir hata keşfederseniz bunu yetkili kadrosuna bildirmelisiniz.
 
 **Bug Abuse Kapsamına Giren Davranışlar**
 
-* Oyun hatalarını bilerek ve kasıtlı olarak kullanmak. (Bir araç satın alırken oyun hataası nedeniyle iki araç almak ve fazladan gelen aracı kullanmaya devam etmek.)
+* Oyun hatalarını bilerek ve kasıtlı olarak kullanmak. (Bir araç satın alırken oyun hatası nedeniyle iki araç almak ve fazladan gelen aracı kullanmaya devam etmek.)
 * Oyun fiziklerini suistimal ederek duvar içinden geçmek, görünmez olmak veya sistemsel bir hatadan faydalanarak haksız avantaj sağlamak.
-- Sınırsız para, mermi veya eşyaa üretmeye sebep olan bir hatayı kullanmak
-- Kapılarla kapatılmış bölgeleri fizikleri/sistemleri suistimal ederek aşmak.
+- Sınırsız para, mermi veya eşya üretmeye sebep olan bir hatayı kullanmak
+- Kapılarla kapatılmış bölgeleri, fizikleri veya sistemleri suistimal ederek aşmak.
 - Animasyon ve diğer oyun mekaniği hatalarını kullanarak rolde haksız avantaj kullanmak.
 
 **Ne yapılmalı?**
-* Bir hata keşfederseniz, bunu kullanmak yerine yöneticilere bildirmelisiniz.
+* Bir hata keşfederseniz bunu kullanmak yerine yöneticilere bildirmelisiniz.
 - Hatanın size avantaj sağladığını fark ederseniz bunu IC yollarla kullanmaktan kaçınmalısınız.
 
 **Bilerek hata sömürüsünde bulunmak ağır yaptırımlara, hesap ve finansal sıfırlamalara neden olabilir.**
@@ -158,20 +158,20 @@ Bir oyuncunun oyun dışında tanıdığı birini, IC olarak datanıyormuş gibi
 
 * Kısaltımı MAADK olan bu ihlal, oyun içindeki meslek araçlarını kişisel veya yasadışı amaçlarla kullanmaktır. Meslek araçları, yalnızca görevlerini yerine getirmek için kullanılmalıdır ve rotaları dışında gezinti yapılmamalıdır.
 
-* Görev dışındaki aktivitelerde meslek aracını kullanmak yasaklıdır.
+* Görev dışındaki aktivitelerde meslek aracını kullanmak yasaktır.
 
-* Meslek araçlarını suç işlemek için kullanmak. (Taşımacılık kamyonu ile polisten kaçmak veya bir suç mahaline bu kamyon ile gitmek.)
+* Meslek araçlarını suç işlemek için kullanmak yasaktır. (Taşımacılık kamyonu ile polisten kaçmak veya bir suç mahaline bu kamyon ile gitmek.)
 
 ### Cop-Bait
 #### Açıklama: 
 
-* Cop Bait, polisleri sebepsiz yere kışkırtarak takip edilmek veya kovalanmak amacıyla yapılan gerçeklik dışı eylemlerdir. Bu tarz davranışlar rol bütünlüğünü bozar ve yasaktır.
+* Copbait, polisleri sebepsiz yere kışkırtarak takip edilmek veya kovalanmak amacıyla yapılan gerçeklik dışı eylemlerdir. Bu tarz davranışlar rol bütünlüğünü bozar ve yasaktır.
 
-**Cop Bait Kapsamına Giren Davranışlar**
+**Copbait Kapsamına Giren Davranışlar**
 - Polislerin yanında gereksiz yere hızlanmak, drift atmak veya tehlikeli haraketler yapmak.
 - Kolluk kuvvetlerine sebepsiz yere hakaret etmek veya provoke edici hareketlerde bulunmak.
 - Polisleri bilerek bir bölgeye çekmeye çalışmak ve pusu kurmak. (Bu ihlal Terörizm olarak da değerlendirilir.)
-- Olağandışı ve gerçek dışı bir şekilde polislerin ilgisini çekmeye çalışmak. (Trafikte sebepsiz yere durup beklemek, aniden kaçmaya çalışmak vb.)
+- Olağan dışı ve gerçek dışı bir şekilde polislerin ilgisini çekmeye çalışmak. (Trafikte sebepsiz yere durup beklemek, aniden kaçmaya çalışmak vb.)
 
 **Dikkat edilmesi gerekenler:**
 - Polislerin ilgisini çekecek eylemlerinizi mantılklı ve rolünüze uygun olması gerekir. Kolluk kuvveti bünyesindeki insanların da oyuncu olduğunu, herkes gibi eğlenmek amaçlı bu platformda olduklarını unutmamak gerekir.
@@ -181,13 +181,13 @@ Bir oyuncunun oyun dışında tanıdığı birini, IC olarak datanıyormuş gibi
 ### Noob-DM
 #### Açıklama:
 
-* Noob DM, ateşli veya kesici silahlar kullanmadan, sebesiz veya emotesiz bir şekilde oyuncuya saldırmak anlamına gelir. Rol bütünlüğünü bozan ve gerçeklikten uzak olan bu hareketler yasaktır.
+* Noob DM, ateşli veya kesici silahlar kullanmadan sebepsiz veya emotesuz bir şekilde oyuncuya saldırmak anlamına gelir. Rol bütünlüğünü bozan ve gerçeklikten uzak olan bu hareketler yasaktır.
 
 **Noob DM Kapsamına Giren Davranışlar:**
 * Bir oyuncuya sebepsiz yere yumruk atmak veya fiziksel saldırıda bulunmak.
 * Rol dışı bir şekilde (emote vermeden) dövüş başlatmak.
 * Hiçbir rol sebebi olmadan çevredeki insanlara fiziksel zarar vermek.
-* Bir kavga veya çatışma rolü olmadığı halde, rastgele kişilere saldırmak.
+* Bir kavga veya çatışma rolü olmamasına rağmen rastgele kişilere saldırmak.
 
 **Dikkat Edilmesi Gerekenler:**
 * Fiziksel saldırılar mutlaka bir role dayandırılmalı ve emote ile desteklenmelidir.
