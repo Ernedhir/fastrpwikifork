@@ -7,18 +7,20 @@
 Saygın ve prestijli karakter gelişimi imkanı sunan kamu oluşumlarına katılabilir, Fast V evreninde İstanbul şehrine hizmet edebilirsin!
 
 #### 🔗 Kolluk Kuvvetleri
-- 👮🏻👮🏻‍♀️ Bir polis olabilir, devletin sert yumruğunu sokaklardaki kanunsuzlara götürebilirsin. [Polis Akademisine başvuru gönder](https://hub.fast-rp.com/ist/forum/category/polis-meslek-egitim-merkezi), komisyonun senin önüne koyduğu zorlu sözlü ve fiziksel mülakatları geçerek kendini kanıtla, derslerinden başarıyla geç ve bir İstanbul Emniyet Müdürlüğünde polis memuru olarak göreve başla!![alt text](<../../images/Ekran görüntüsü 2025-06-16 205250.png>)
+- 👮🏻👮🏻‍♀️ Bir polis olabilir, devletin sert yumruğunu sokaklardaki kanunsuzlara götürebilirsin. [Polis Akademisine başvuru gönder](https://hub.fast-rp.com/ist/forum/category/polis-meslek-egitim-merkezi), komisyonun senin önüne koyduğu zorlu sözlü ve fiziksel mülakatları geçerek kendini kanıtla, derslerinden başarıyla geç ve bir İstanbul Emniyet Müdürlüğünde polis memuru olarak göreve başla!![alt text](<https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/polis%20doblo.png>)
 
-- 🪖 Kamu düzenini korumak veya bozulan kamu düzenini tekrar düzeltmekle görevlendirilmek ilgini mi çekiyor? Jandarma Genel Komutanlığına katılıp kırsal bölgelerin güvenliğinden sorumlu olabilirsin. Asayiş, operasyon ve dağ operasyonları gibi görevlerde yer alıp ülkene hizmet etmek istiyorsan tam yerindesin!![alt text](../../images/139683343_1296529177392671_6903665404305955001_n.jpg)
+- 🪖 Kamu düzenini korumak veya bozulan kamu düzenini tekrar düzeltmekle görevlendirilmek ilgini mi çekiyor? Jandarma Genel Komutanlığına katılıp kırsal bölgelerin güvenliğinden sorumlu olabilirsin. Asayiş, operasyon ve dağ operasyonları gibi görevlerde yer alıp ülkene hizmet etmek istiyorsan tam yerindesin!![alt text](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/jandarmatrafik.jpg)
+**Ek not:** Jandarma Genel Komutanlığı beta süreci kapsamında henüz aktif değil. İlerleyen süreçlerde aktif edilecek.
 
 #### ⚕️ Sağlık Çalışanları
 - 🚑 İstanbul Eğitim ve Araştırma Hastanesine katılarak ambulans şoförü olabilirsin. Zor ama ödüllendirici bir kariyerde aşama katederek insan hayatını kurtaran, her yere zamanında yetişmeyi bilen bir kahraman olabilirsin.
-- 🩺 İlk müdahalelerde uzmanlaşmış ve sağlık sektörünün bel kemiklerini oluşturan hemşire veya paramedik olabilir, insanları hayatta tutmak için elinden gelenin fazlasını yaparak para kazanabilirsin!![alt text](<../../images/Ekran görüntüsü 2025-06-16 205026.png>)
+- 🩺 İlk müdahalelerde uzmanlaşmış ve sağlık sektörünün bel kemiklerini oluşturan hemşire veya paramedik olabilir, insanları hayatta tutmak için elinden gelenin fazlasını yaparak para kazanabilirsin!![alt text](<https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/mdistasyon.png>)
 
 - 👨🏻‍⚕️ Bir doktor olabilir, hastalanan insanları muayene edip teşhis koyduktan sonra onlara tedavi skalası yazabilirsin. Kim bilir, belki ileride şehirde herkesin tanıdığı bir doktor olursun ve konferanslarda söyleşi verirsin. Burada doktorluk sadece iğne vurmaktan ibaret değildir. Psikiyatrist mi? Kardiyolog mu? Travma cerrahı mı? Ne alanda uzmanlaşacağın tamamen sana bağlı!
 
 #### ⚖️ Adalet Bakanlığı
 - Adaletin şaşmaz terazisini tutan kişi mi olmak istiyorsun? Baroya kayıt ol, yeteri kadar kalifiye olduğunu kanıtla ve avukatlığa adım at! Meslek içerisinde deneyimlendikçe bir savcı, hatta bir hakim bile olabilirsin!
+**Ek not:** Adalet Bakanlığı beta süreci kapsamında henüz aktif değil. İlerleyen süreçlerde aktif edilecek.
 
 ### 💼 Ticaret Dünyası
 

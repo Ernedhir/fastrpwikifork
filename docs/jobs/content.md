@@ -7,12 +7,12 @@
 
 #### 🛠️ Nasıl çalışır?
 
-* Balıkçı malzemelerini temin et:![alt text](../../images/image.png)
+* Balıkçı malzemelerini temin et:![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/image.png)
 
 
 * Belirlenen balık tutma alanlarına git.
 
-* Sağ tıklayarak oltanı denize at, biraz bekle ve... Balığı yakala!![alt text](../../images/fishing.png)
+* Sağ tıklayarak oltanı denize at, biraz bekle ve... Balığı yakala!![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/fishing.png)
 
 * Yakaladığın balıkları ister sat, ister sakla. Seçim tamamen senin!
 
@@ -23,7 +23,8 @@
 
 İster kafanı dinlemek için, ister ekonomiye katkı sağlamak için balıkçılık sistemimiz tam sana göre! 🐠
 
-Eğer hazırsan iskelede buluşalım!![alt text](../../images/Adsz_tasarm_1.png)
+Eğer hazırsan iskelede buluşalım!
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/Balık%20del%20perro.png)
 
 <hr>
 
@@ -35,9 +36,9 @@ Otobüs şoförlüğü mesleğiyle artık düzenli gelir ve keyifli bir sürüş
 
 #### 🛠️ Nasıl Başlanır?
 
-- Başlamak için sana belirlilen konuma git ve mesleğe katıl.![alt text](<../../images/otobüs (1).jpg>)
+- Başlamak için sana belirlilen konuma git ve mesleğe katıl.![alt text](<https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/otobüs%20(1).jpg>)
 - Şehrin içinde olan çeşitli duraklara yolcu taşıyarak güzergâhını tamamla.
-- Her durakta yolcu al, rotanı koru, ücretini topla!![alt text](<../../images/otobüs (2).jpg>)
+- Her durakta yolcu al, rotanı koru, ücretini topla!![alt text](<https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/otobüs%20(2).jpg>)
 
 #### 💸 Kazanç Sağla!
 
@@ -53,12 +54,14 @@ Otobüs şoförlüğü mesleğiyle artık düzenli gelir ve keyifli bir sürüş
 
  ## 🚛 Kamyonculuk Mesleği
 
- - Limanlardan fabrikalara, fabrikalardan marketlere. Şehrin tüm yükünü sen sırtlayabilirsin! Gerçek para böyle kazanılır, nasıl mı?:
+ - Limanlardan fabrikalara, fabrikalardan marketlere. Şehrin tüm yükünü sen sırtlayabilirsin! Gerçek para böyle kazanılır, nasıl mı?
 
  #### 🛠️ Nasıl Başlanır?
 
- - Başlamak için fotoğrafta belirtilen konuma git ve mesleğe katıl:![alt text](../../images/tırblip.png)
- - Kamyonuna bindikten sonra belirlenen noktalar arasında dağıtıma çık:![alt text](../../images/20250616171133_1.jpg)
+ - Başlamak için fotoğrafta belirtilen konuma git ve mesleğe katıl:
+ ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/tırblip.png)
+ - Kamyonuna bindikten sonra belirlenen noktalar arasında dağıtıma çık:
+ ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/kamyon1.jpg)
  - Yükünü başarıyla teslim et, paranı ceple. Nereye harcadığın tamamen sana bağlı!
 
  #### 💸 Kazanç Sağla!
