@@ -1,4 +1,4 @@
-# Trade Rules
+# Ticaret Kuralları
 
 > ## Önemli not
 > Şu an görüntülediğiniz sunucu politikaları henüz tamamlanmamıştır. Bu, başlangıç niteliğinde bir taslaktır ve ilerleyen süreçte birçok ekleme ve düzenleme yapılacaktır.
@@ -6,8 +6,8 @@
 
 ### OOC Ticaret
 #### Açıklama:
-* Sunucuda hesap, eşya, araç ve mülk herhangi bir şekilde OOC para ile satılamaz. Satışı veyahut satış girişiminin tespitinde alan kişi de, satan kişi de sunucudan kalıcı olarak engellenir ve ticareti yapılan varlıklar silinir.
-* Donate ürünlerin, OOC olarak satılması, takaslanması kesinlikle yasaktır. Eğer bunlara yönetim el koyarsa alan kişi hiçbir hak talep edemez.
+* Sunucuda; hesap, eşya, araç ve/veya mülk herhangi bir şekilde OOC para ile satılamaz. Satışı veyahut satış girişiminin tespitinde alan kişi de satan kişi de sunucudan kalıcı olarak engellenir ve ticareti yapılan varlıklar silinir.
+* Donate ürünlerin OOC olarak satılması, takaslanması kesinlikle yasaktır. Eğer bunlara yönetim el koyarsa alan kişi hiçbir hak talep edemez.
 
 ### IC Ticaret
 #### Açıklama:
