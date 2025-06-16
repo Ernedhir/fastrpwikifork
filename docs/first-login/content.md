@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragemplogin.png)
 ## Karakterini Oluştur
 1. Kayıt olup hesabına giriş yaptıktan sonra ise karakter oluşturma bölümüne gireceksin, işte uzun süre kullanacağın o yüzü belirleme şansı karşında! 
-2. Aşağıdaki bölümde karakterinin **ad ve soy adı, yaşı, kilosu, boyu, anne/babası ve ten-yüz karışımı** gibi birçok detay var. Unutma, sadece Türk ve Azeri isimleri kullanabilirsin. Karakter özelliklerini dikkatlice düzenlemeli ve karakterinin temellerini atmalısın.
+2. Aşağıdaki bölümde karakterinin **ad ve soyadı, yaşı, kilosu, boyu, anne/babası ve ten-yüz karışımı** gibi birçok detay var. Unutma, sadece Türk ve Azeri isimleri kullanabilirsin. Karakter özelliklerini dikkatlice düzenlemeli ve karakterinin temellerini atmalısın.
 ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/characterpanel.jpg)
 ###
 ## Yüz Oluşturma
