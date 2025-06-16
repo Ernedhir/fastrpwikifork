@@ -21,7 +21,7 @@
  1. Bu sekmeden karakterinin **saç modeli, saç rengi, saç rengi karışımı, kaşlar, sakal ve göğüs kılı** gibi detayları ekleyebilir ve düzenleyebilirsin. 
  ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/hairsection.jpg)
  2. Yukarıdaki detayları düzenlemeye bitirdin mi? Artık sona yaklaştık, önümüzde sadece iki aşama var. Şimdi sağdaki panelde bulunan **Makyaj** butonuna tıkla.
- ![](../../images/makeupsection.jpg)
+ ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/makeupsection.jpg)
 
  ## Makyaj
  1. Bu sekmeden **kırışıklık, çiller, cilt, makyaj, allık ve ruj** gibi detayları ekleyebilir, karakterine uygun şekilde düzenleyebilirsin.
