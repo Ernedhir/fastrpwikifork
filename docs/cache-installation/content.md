@@ -13,9 +13,9 @@ Cache dosyasını yüklediysen artık kuruluma geçebiliriz. Şimdi başlayalım
 ![](https://github.com/fastroleplay/wiki/blob/main/images/cachestep1.png?raw=true)
 2. Sonrasında karşına çıkan pencereden **Dosya Konumunu Aç** butonuna tıklayıp RageMP'nin dosyalarına erişebileceksin.
 ![](https://github.com/fastroleplay/wiki/blob/main/images/cachestep2.png?raw=true)
-3. RageMP dosyaları arasında **client_resources**'i bul.
+3. RageMP dosyaları arasında **client_resources**'i bul.    
 ![](https://github.com/fastroleplay/wiki/blob/main/images/cachestep3.png?raw=true)
-4. İşlem neredeyse tamam! Şimdi yüklediğin **Fast:V Cache** dosyasını aç ve içindeki klasörü, RageMP'nin dosya konumunda bulunan **client_resources**'in içine at ve bitti, artık hazırsın.
+4. İşlem neredeyse tamam! Şimdi yüklediğin **Fast:V Cache** dosyasını aç ve içindeki klasörü, RageMP'nin dosya konumunda bulunan **client_resources**'in içine at ve bitti, artık hazırsın.    
 ![](https://github.com/fastroleplay/wiki/blob/main/images/cachestep4.png?raw=true)
 
 
