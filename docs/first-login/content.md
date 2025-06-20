@@ -1,7 +1,7 @@
 # ⚡İlk Giriş
 ### Hesap Oluşturma
 🚀 Fast'e hoş geldin!
-1. RageMP üzerinden ``play-ist.fast-rp.com`` ile Fast'e giriş yap ve hesabını oluştur!
+1. RageMP üzerinden ``ist.fast-rp.com`` ile Fast'e giriş yap ve hesabını oluştur!
 ## Karakterini Oluştur
 1. Kayıt olup hesabına giriş yaptıktan sonra ise karakter oluşturma bölümüne gireceksin, işte uzun süre kullanacağın o yüzü belirleme şansı karşında! 
 2. Aşağıdaki bölümde karakterinin **ad ve soyadı, yaşı, kilosu, boyu, anne/babası ve ten-yüz karışımı** gibi birçok detay var. Unutma, sadece Türk ve Azeri isimleri kullanabilirsin. Karakter özelliklerini dikkatlice düzenlemeli ve karakterinin temellerini atmalısın.

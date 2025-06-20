@@ -20,5 +20,5 @@ Cache dosyasını yüklediysen artık kuruluma geçebiliriz. Şimdi başlayalım
 
 
 5. 🔓 Sağ üstte bulunan "**Hızlı Bağlantı**" butonuna tıkla ve aşağıdaki IP'yi yaz, artık aramızdasın. Fast:V'ye hoş geldin!
-```play-ist.fast-rp.com```
+**IP:**```ist.fast-rp.com```
 ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragemplogin.png)
