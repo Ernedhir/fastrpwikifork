@@ -9,8 +9,7 @@ Cache kurmak oldukça basit, şimdi adım adım birlikte yapacağız. Nasıl kur
 
 ### 🚀 Cache Dosyası Kurulumu
 Cache dosyasını yüklediysen artık kuruluma geçebiliriz. Şimdi başlayalım!
-1. RageMP'ye sağ tıklayıp önüne açılan panelden **Özellikler** butonuna tıkla.
-
+1. RageMP'ye sağ tıklayıp önüne açılan panelden **Özellikler** butonuna tıkla.     
 ![](https://github.com/fastroleplay/wiki/blob/main/images/cachestep1.png?raw=true)
 2. Sonrasında karşına çıkan pencereden **Dosya Konumunu Aç** butonuna tıklayıp RageMP'nin dosyalarına erişebileceksin.
 ![](https://github.com/fastroleplay/wiki/blob/main/images/cachestep2.png?raw=true)
