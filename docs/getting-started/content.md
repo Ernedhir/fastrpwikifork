@@ -18,15 +18,15 @@ Oluşturduğumuz bu kategorilerle sunucuya nasıl giriş yapılacağını A'dan 
 #### 👤 Sunucuya giriş yaptım, şimdi ne yapacağım?
 Karakterini oluşturarak ilk adımı atalım!
 
-- [Karakter Oluştur:](https://hub.fast-rp.com/wiki/first-login) Karakterini nasıl oluşturacağını görüntüle ve sonraki adıma geçelim.
+- [🧍‍♂️Karakter Oluştur:](https://hub.fast-rp.com/wiki/first-login) Karakterini nasıl oluşturacağını görüntüle ve sonraki adıma geçelim.
 
-#### Meslekler
+#### 🛠️ Meslekler
 Sunucuya giriş yaptın, karakterini oluşturdun ve artık Fast için hazırsın. Yaşayan her insan gibi, geçimini sağlamak için çalışmalısın. Bugün karnını doyurmak için çalışacaksın, dünyaya adımını yeni attın. İşte para kazanabileceğin meslekler:
-[Meslekler:](https://hub.fast-rp.com/wiki/jobs) Mesleklere göz at ve biraz alın teri dök, bu sayede temel ihtiyaçlarını giderebileceksin. Kim bilir, belki bugün balık tuttuğun yere bir gün spor araç ile gelirsin.
+[💼 Meslekler:](https://hub.fast-rp.com/wiki/jobs) Mesleklere göz at ve biraz alın teri dök, bu sayede temel ihtiyaçlarını giderebileceksin. Kim bilir, belki bugün balık tuttuğun yere bir gün spor araç ile gelirsin.
 
 #### ⚡Hikayeni yaz
 Kısa vadeli mesleklerden sıkıldın ve saygın, prestijli bir meslek mi istiyorsun? Buna bir göz at, işine yaracaktır. Listeye çizgi atmayı unutma!
-Kim bilir, belki listede kalan son maddeye de atacak bir çizgi bulursun.
+💖 Kim bilir, belki listede kalan son maddeye de atacak bir çizgi bulursun.
 ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/list.png)
 
 
