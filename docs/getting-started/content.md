@@ -25,7 +25,7 @@ Sunucuya giriş yaptın, karakterini oluşturdun ve artık Fast için hazırsın
 [💼 Meslekler:](https://hub.fast-rp.com/wiki/jobs) Mesleklere göz at ve biraz alın teri dök, bu sayede temel ihtiyaçlarını giderebileceksin. Kim bilir, belki bugün balık tuttuğun yere bir gün spor araç ile gelirsin.
 
 #### ⚡Hikayeni yaz
-Kısa vadeli mesleklerden sıkıldın ve saygın, prestijli bir meslek mi arıyorsun? Polis, sağlık çalışanı, jandarma, belki de bunların tam tersi, kirli mi oynamak istiyorsun? [Buraya bir göz at](https://hub.fast-rp.com/wiki/after-life), işine yaracaktır. Listeye çizgi atmayı unutma!
+"Kısa vadeli işlerden sıkıldın mı? Artık daha saygın ve prestijli bir meslek mi arıyorsun? Belki polis, sağlık çalışanı ya da jandarma olmak istiyorsun… Ya da tam tersi, kirli oynamayı mı tercih edersin? [Buraya bir göz at](https://hub.fast-rp.com/wiki/after-life), aradığını bulacaksın. Listeye çizgi atmayı unutma!
 💖 Kim bilir, belki listede kalan son maddeye de atacak bir çizgi bulursun.
 ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/list.png)
 
