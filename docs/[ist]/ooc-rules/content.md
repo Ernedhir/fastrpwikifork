@@ -36,6 +36,8 @@
 #### Çalındığında:
 * Üyelerin hesap güvenliği kendisinde olsa bile hesap çalındığında ilgili kişinin tüm hesapları sunucudan yasaklanır ve hesap sahibine iade edilir. Çalındığı süre boyunca hesap içerisinde yapılan hiçbir işlemden yönetim sorumlu olmaz, iade yapılmaz.
 
+#### Mantıksız
+
 ### Yetkili İnisiyatifi
 #### Açıklama:
 * Tüm oyun kuralları için cezanın şekli ve süresi üst yönetim tarafından farklı uygulanabilir. Verilen bir karar geri alınabilir, değiştirilebilir veya yükseltilebilir.
@@ -87,19 +89,31 @@
 ### Üzerinde Olan/Olmayan Ekipmanlar
 #### Açıklama:
 * Üzerinizde olmayan herhangi bir eşyaya göre rol gerçekleştiremezsiniz. Üzerinizde olan ekipmana veya eşyaya da yokmuş gibi rol yapamazsınız.
-### İhlalinde:
+#### İhlalinde:
 * Powergaming kapsamında oyun içi cezalandırma uygulanır.
+
 
 ### Karakter İsimleri
 #### Açıklama:
 Oyun içerisinde bazı karakter isimlerinin seçilmesi yasaklanmıştır. Yasaklı bir ismin seçilip yetkili tarafından gözden kaçırılması durumunda bu isim tespit edilince karakter yasaklanır. Karakter yaratma esnasında bu sorumluluğun kullanıcıya ait olduğu belirtilmiştir.
-#### Örnek:
-* Ünlü isimleri veya ünlü isimlerini çağırıştıran isimler seçilemez. (Örnek olarak sanatçılar, film ve oyun karakterleri gibi: Michael Jackson, Jon Snow, Lara Craft, John Cyna, Murat Bez.)
+
+* Ünlü isimleri veya ünlü isimlerini çağrıştıran isimler seçilemez.
+(Örnek: Murat Bez, Acun Ilıca, Cem Yolmaz, Polathan Alemdar vb.)
+
 * Gerçek dışı isimler seçilemez.
-* Dalga geçmek amaçlı isimler seçilemez. (Okunuş veya başka sebepli komik isimler yasaktır. Örnek: Jhon_Bhon, Yar_Rock, Unluma_Muller, Ben_Dover)
-* Eskiden size ait olan/olmayan isimlerin birkaç harfi değiştirilerek benzer isim seçilemez. (John_Doe > John_Dae)
+Dalga geçmek amaçlı isimler kullanılamaz.
+(Örnek: Ahmet )
+
+* Eskiden size ait olan/olmayan isimlerin birkaç harfi değiştirilerek benzer isimler oluşturulamaz.
+(Örnek: Ahmet_Hamdi > Ahmetcan_Hamdi)
+
+* Karakter adında "Paşa", "Reis", "Lider", "Kral", "Çakal", "Ağa", "Patron" ve daha fazlası gibi lakap, unvan veya iddialı ifadeler içeren isimler kullanılamaz.
+(Örnek: Lider_Ahmet_Basaran uygun bir isim değildir.
+Pasa_Ahmet_Basaran uygun bir isim değildir.
+Reis_Ahmet_Basaran uygun bir isim değildir.
+Ahmet_Han_Basaran uygun bir isim değildir.)
 #### İhlalinde:
-* Yetkili tarafından karakter yasaklanması uygulanır.
+Karakter yasaklanması uygulanabilir.
 
 #### Rol İçinde Kısaltma Kullanımı
 * Kısaltmalar kullanılamaz. ("slm", "mrb", "vb" gibi.)
