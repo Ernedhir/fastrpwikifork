@@ -40,14 +40,14 @@ Kural ihlallerine karşılık gelen ceza sürelerini aşağıda bulabilirsiniz.
 | **Hatalı Karakter İsmi**                        |   Karakter yasağı veya karakter ismi değiştirme zorunluluğu.                          |  Yetkili inisiyatifine göre karakter yasağı uygulanabilir veya isim değiştirilmesi için süre verilebilir.                                                         |
 | **Rol İçinde Kısaltma Kullanımı**                        |   30-60                          | Sürekli yapılması halinde işlem artabilir.                                                          |
 | **Aktif Rolde AFK kalmak**                       |   60-180                          |  Sürekli yapılması halinde işlem artabilir.                                                         |
-| **Rol Sırasında Oyundan Çıkmak**                        | 60-300                            |   Kasıtlı ve/veya sürekli yapılması halinde işlem artabilir.                                                        |
+| **Rol Sırasında Oyundan Çıkmak**                        | 120-300                            |   Kasıtlı ve/veya sürekli yapılması halinde işlem artabilir.                                                        |
 | **Spam/Flood Kuralı**                        |  30-120                           |  Sürekli yapılması halinde işlem artabilir.                                                         |
 | **Cinsel Taciz / Tecavüz Kuralı**                        |300-600                             | Karakter yasağı veya kalıcı yasaklama uygulanabilir.                                                          |
 | **Money Farming**                        |   Karakter yasağı veya aktarılan eşyaların/paranın silinmesi.                          |  Yetkili inisiyatifindedir.                                                         |
 | **OOC Ticaret**                        |  Kalıcı yasaklama.                           |  Kalıcı yasaklama uygulanır.                                                         |
 | **Dolandırıcılık**                        | 300 - 600                            |   Karakter yasağı/hesap yasağı uygulanabilir.                                                        |
 | **ADK**                        |    180 - 400                         | Sürekli yapılması halinde karakter veya hesap yasağı uygulanabilir.                                                          |
-| **DDK**                        |    200 - 500                         |     Sürekli yapılması halinde karakter veya hesap yasağı uygulanabilir..                                                      |
+| **DDK - MDK**                        |    200 - 500                         | Düzeyine göre karakter veya hesap yasaklaması uygulanabilir.                                                           |
  
 
 > 📝 **Not:** Cezalar, ihlalin tekrarlanması veya kasıtlı yapılması durumunda ağırlaştırılabilir.
