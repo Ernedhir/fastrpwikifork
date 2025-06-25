@@ -20,8 +20,8 @@
 <details>
 <summary>📷 Görselleri Göster</summary>
 <p float="left">
-  <img src="../../images/realestate/modernapt1.jpg" width="45%" style="margin-right: 10px;" />
-  <img src="../../images/realestate/modernapt2.jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt1.jpg" width="45%" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt2.jpg" width="45%" />
 </p>
 </details>
 
