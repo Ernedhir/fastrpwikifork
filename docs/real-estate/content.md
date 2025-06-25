@@ -16,13 +16,14 @@
 
 #### 🏠 Modern Apartment 1 <small>(ID: 240)</small>
 <strong>Kategori:</strong> Rezidans
+
 <strong>Default Adı:</strong> apa_v_mp_h_01_a
 <details>
 <summary>📷 Görselleri Göster</summary>
-<p float="left">
-  <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt1.jpg" width="45%" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt2.jpg" width="45%" />
-</p>
+
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt1.jpg)
+![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt2.jpg)
+
 </details>
 
 
