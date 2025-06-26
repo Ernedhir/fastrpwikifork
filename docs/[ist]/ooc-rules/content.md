@@ -1,4 +1,7 @@
-# OOC Rules
+# OOC Kurallar
+
+Cezalandırma sürelerini buradan görüntüleyebilirsiniz:
+[ ⚡ Cezalandırma Süreleri](https://hub.fast-rp.com/wiki/ist/punishment)
 
 
 > ## Önemli not
@@ -26,8 +29,6 @@
 - **Hesap Paylaşımı:** Hesabınızı başka biriyle paylaşmak, hem hesabınızın güvenliğini riske atar hem de aynı karakterin farklı oyuncular tarafından yönetilmesiyle roleplay tutarlılığını zedeler. Özellikle, aynı karakterin farklı oyuncular tarafından IC olarak bilinmeyen bilgilerle hareket etmesi Meta Gaming'e yol açabilir.
 
 - **Erişim Verilmesi:** "Her ne sebeple olursa olsun" kendi hesabınızın başka bir oyuncuya erişimini vermek, yukarıda belirtilen riskleri taşır ve yasaktır. Bu, hesabınızdan yapılan her türlü eylemin sorumluluğunun size ait olduğu gerçeğini değiştirmez.
-#### İhlalinde:
-- Tespit edilen ilgili ana hesaplar yasaklanır.
 
 ### Hesap Güvenliği
 #### Açıklama:
@@ -48,8 +49,6 @@
 #### Açıklama:
 * Belirli bir olay veya işlem sonrasında yetkiliye veya yönetime karşı olumsuz tutum sergilenmesi durumudur.
 
-#### İhlalinde:
-* Yetkili inisiyatifine bağlı olarak oyuncu sunucudan yasaklanır ya da hapis cezası alır.
 
 ### Şikayet Zaman Aşımı
 #### Açıklama:
@@ -58,40 +57,49 @@
 ### OOC Irkçılık, Nefret Söylemleri
 #### Açıklama:
 * Oyun içerisinde çok ve çeşitli roller canlandırılmaktadır. Bu çeşitlilik doğrultusunda farklı dinî, ırkî, siyasi ve benzeri IC oluşumlar açılmaktadır. OOC olarak karşıt görüşte olduğunuz bir gruba karşı OOC olarak sorgulamada bulunamazsınız.
-#### İhlalinde:
-* Yetkili inisiyatifine göre cezalandırılır.
 
 ### OOC Kin
 #### Açıklama:
 * Rol sonucunda karşı oyuncuya/oyunculara OOC kin beslemek ve onun/onların oyun zevkini bozmak yasaktır. Sürekli olarak o oyuncunun ufak dahi olsa ihlallerini gözetip raporlamak yasaktır.
-#### İhlalinde:
-* İlgili oyuncu sunucudan yasaklanır.
 
 ### OOC Küfür & Hakaret
 #### Açıklama: 
 * Sunucuda herhangi bir oyuncuya OOC olarak küfür etmek veya hakarette bulunmak kesinlikle yasaktır.
-#### İhlalinde: 
-- Yetkili inisiyatifine göre süreli veya süresiz olarak yasaklanabilir, oyun içi işlem uygulanabilir.
 
 ### OOC Reklam ve Provoke
 #### Açıklama:
 * Sunucu içindeki oyuncuları oyun içinden veya dışarıdan provoke etmek ya da başka bir yere yönlendirmek kesinlikle yasaktır.
 
-#### İhlalinde:
-* İlgili oyuncu süreli veya süresiz olarak yasaklanır.
 
 ### OOC Üslup
 #### Açıklama:
 * Sunucu içerisinde OOC konuşmalar yalnızca OOC sohbet, birlik sohbeti veya özel mesaj yoluyla yapılabilir. Roleplay dışında herhangi bir olay sonucunda OOC konuşmak zorunda kalınırsa üsluba kesinlikle dikkat edilmelidir. OOC konuşmalarda bilinçli olarak kişisel saldırılarda (rencide edici konuşmalar, küfür, hakaret, aşağılama vb.) bulunmak, tartışmaları kavgaya sürüklemek, ortamı kışkırtacak üslup ve yazışmalar yasaktır.
-#### İhlalinde: 
-* Süreli olarak yasaklanabilir veya oyun içi cezalandırılabilir.
+
+### IC ADK
+#### Açıklama:
+- IC konuşmalarda aile bireylerine yönelik (anne, baba, kardeş, eş vb.) küfür ve aşağılayıcı ifadeler sadece rol gereği ve makul sebepler dahilinde sınırlı olarak kullanılabilir.
+- Bu tür cümleleri sebepsiz yere, sırf provoke etmek veya hakaret etmek için kurmak kesinlikle yasaktır.
+- Sunucuda bu konuda sıfır tolerans politikası uygulanır.
+- Unutmayın, gerçek hayatta kimin yüzüne böyle bir hakaret edebileceğinizi düşünün. Roleplay yaparken gerçekçiliği esas alın; gerçek hayatta karşılığı olmayan aşırı veya keyfi söylemler rol kisvesi altında sunulamaz.
+
+Karakteriniz psikopat ya da agresif olabilir; ancak bu, herkese durup dururken ADK etme hakkı vermez.
+#### Örnek:
+* ❌ Yoldan geçen birine: “Ne bakıyorsun xxx çocuğu?” gibi ailevi hakaret içeren cümleler kurmak — rol bahanesiyle bile — yasaklanma sebebidir.
+* ❌ Basit bir trafik kazasında karşı tarafa doğrudan ailesine küfürle karşılık vermek: “Ananı da al git buradan!”
+* ✅ Gasp veya tehdit rolü sırasında, karşı tarafı yıldırmaya yönelik olarak kullanılan hafif düzeyde baskı içeren ama abartılmamış ifadeler, olayın bağlamına göre değerlendirilir.
+
+
+### Milli Değerlere Küfür / Dini Değerlere Küfür
+#### Açıklama:
+- Her türlü ortamda, ister IC ister OOC fark etmeksizin; millet, bayrak, vatan, şehitler gibi milli değerler ile tüm dinî inançlara yönelik hakaret, aşağılayıcı ifadeler veya alaycı söylemler kesinlikle yasaktır.
+- Bu tür ifadeler, role hizmet ediyor olsa dahi tolere edilmez ve doğrudan cezalandırılır.
+- İfade özgürlüğü veya rol bahanesiyle bu sınırlar aşılırsa, sadece sunucu kuralları değil aynı zamanda yasal sorumluluklar da devreye girebilir.
+
+
 
 ### Üzerinde Olan/Olmayan Ekipmanlar
 #### Açıklama:
 * Üzerinizde olmayan herhangi bir eşyaya göre rol gerçekleştiremezsiniz. Üzerinizde olan ekipmana veya eşyaya da yokmuş gibi rol yapamazsınız.
-#### İhlalinde:
-* Powergaming kapsamında oyun içi cezalandırma uygulanır.
-
 
 ### Karakter İsimleri
 #### Açıklama:
@@ -112,13 +120,9 @@ Dalga geçmek amaçlı isimler kullanılamaz.
 Pasa_Ahmet_Basaran uygun bir isim değildir.
 Reis_Ahmet_Basaran uygun bir isim değildir.
 Ahmet_Han_Basaran uygun bir isim değildir.)
-#### İhlalinde:
-Karakter yasaklanması uygulanabilir.
 
 #### Rol İçinde Kısaltma Kullanımı
 * Kısaltmalar kullanılamaz. ("slm", "mrb", "vb" gibi.)
-#### İhlalinde: 
-* Oyun içi cezalandırma uygulanır.
 
 ### Sunucuda Var Olmayan Birlik/Kişi Rolü Yapmak
 ### Açıklama:
@@ -130,23 +134,17 @@ Karakter yasaklanması uygulanabilir.
 ### Olmayan Karakter Özellikleri Belirtmek
 #### Açıklama:
 * Kullandığınız karakterinizin özelliklerini (karakter ismi, cinsiyet, yaş, ten rengi, uyruk) oyuna ilk girişinizde belirleyebilirsiniz. Sunucuda karakterinizle oynarken bu özelliklere göre hareket etmelisiniz. Karakter özelliklerinin daha sonradan değiştirilmesi söz konusu değildir.
-#### İhlalinde:
-* Yetkili insiyatifine göre oyuncu cezalandırılır.
 
 ### AFK Kalmak/alt+tab/Boşta Beklemek
 #### Açıklama:
 * Oyun içerisindeki rol bölgelerinde 5 dakika üstünde AFK kalmanız yasaktır.
 * Aktif rolde iken 1 dakikanın üstünde AFK kalmanız yasaktır.
 * Oyuncuların erişebileceği bölgelerde AFK kaldığınızda (Size ait olmayan interiorlar harici her yer) oyuncular sizinle role girebilirler. Sürekli roleplay kapsamında tarafınızda raporlama yapılırsa ihlal yapmış sayılabilirsiniz.
-#### İhlalinde:
-* Oyun içi işlem uygulanır.
 
 ### Rol Sırasında Oyundan Çıkmak
 #### Açıklama: 
 * Roleplay devam ederken oyundan kasıtlı olarak çıkmak kesinlikle yasaktır.
 * Bağlantı kopması durumunda yeniden giriş yaptığınızda karşı taraf ile OOC yollar kullanarak iletişim kurup role kaldığınız yerden devam etmelisiniz. Rolü reddetmek kesinlikle yasaktır. 
-#### İhlalinde:
-* Yetkili insiyatifine göre oyuncu cezalandırılır.
 
 ### Spam/Flood Kuralı
 #### Açıklama:
@@ -163,8 +161,6 @@ Karakter yasaklanması uygulanabilir.
 * Taciz rolleri, güvenli bölgelerde yapılamaz.
 * Bu tür bir role başlandığında role izin veren taraf, rolün ortasında herhangi bir gerekçe belirtmeden rolü reddedebilir ve kaçınabilir, bu gibi durumlar rolü reddetmek olarak değerlendirilmez. Bu tarz senaryolarda zorlama yapılmamalıdır.
 
-#### İhlalinde:
-* Yetkili inisiyatifine göre cezalandırılabilir, süreli veya süresiz olarak yasaklanabilir.
 
 ### Money Farming
 #### Açıklama:

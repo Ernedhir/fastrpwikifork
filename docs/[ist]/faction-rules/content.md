@@ -1,4 +1,4 @@
-# Faction Rules
+# Birlik Kuralları
 
 > ## Önemli not
 > Şu an görüntülediğiniz sunucu politikaları henüz tamamlanmamıştır. Bu, başlangıç niteliğinde bir taslaktır ve ilerleyen süreçte birçok ekleme ve düzenleme yapılacaktır.

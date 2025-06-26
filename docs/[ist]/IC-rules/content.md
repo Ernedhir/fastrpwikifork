@@ -1,4 +1,4 @@
-# IC Rules
+# IC Kurallar
 
 ## Emotelar
 * Emote kullanımı roleplay sunucularının temelidir. Bu nedenle /me ve /do emotelarının doğru ve düzenli bir şekilde kullanılması gerekmektedir. Bu, rolde bulunan her iki tarafın da çıkarını gözetir.
@@ -41,7 +41,6 @@
 * Meslekler arası geçiş yapmak yasaktır. Bir oyuncu, aktif olarak görev yaptığı, uzmanlık gerektiren, meslekten (polis, doktor, itfaiyeci, haberci vb.) istifa ettikten sonra, uzmanlık gerektiren, başka bir mesleğe geçiş yapamaz.
 
 * Farklı meslekleğe geçiş yapabilmek için karakter adı değiştirmeli ve geçiş yapmak istediğiniz mesleğe uygun bir karakter hikayesi yazmalısınız. 
-
 
 
 ## Güvenli Bölge
