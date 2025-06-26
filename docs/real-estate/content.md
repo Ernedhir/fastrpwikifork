@@ -9,7 +9,7 @@ Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte
 <details>
   <summary><span style="font-size: 1.3em; font-weight: bold;">🏢 Rezidanslar</span></summary><br>
 
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #f9f9f9;">
+<div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
  
 <h4>🏠 Modern Apartment 1</h4>
     <details>
@@ -129,7 +129,7 @@ Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte
 <details>
   <summary><span style="font-size: 1.3em; font-weight: bold;">🅿️ Garajlar</span></summary><br>
 
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #f9f9f9;">
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
 
 <h4>🚗 Warehouse Garage </h4>
     <details>
@@ -185,7 +185,7 @@ Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte
 <details>
   <summary><span style="font-size: 1.3em; font-weight: bold;">💼 Ofisler</span></summary><br>
 
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #f9f9f9;">
+<div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
 
 <h4>🏢 Executive Rich </h4>
     <details>
@@ -281,7 +281,7 @@ Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte
 <details>
   <summary><span style="font-size: 1.3em; font-weight: bold;">📦 Depolar</span></summary><br>
 
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #f9f9f9;">
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
 
 <h4>🏭 Warehouse 1 </h4>
     <details>
@@ -350,7 +350,7 @@ Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte
 <details>
   <summary><span style="font-size: 1.3em; font-weight: bold;">🏬 İşletmeler</span></summary><br>
 
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #f9f9f9;">
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
   
 <h4> 💍 Jewel Store </h4>
     <details>
@@ -367,14 +367,6 @@ Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte
         <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/nightclub2.png" width="45%"     style="margin-right:10px;" />
     </details>
 <hr>
-  
-
-
-
-
-
-
-
 
 </div>
 </details>
