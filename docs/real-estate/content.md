@@ -287,7 +287,6 @@ Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte
     <details>
         <summary>📷 Interior Görselleri</summary><br>
         <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse1-1.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse1-2.png" width="45%" />
     </details>
 <hr>
 
