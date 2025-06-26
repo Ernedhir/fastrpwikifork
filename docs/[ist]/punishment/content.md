@@ -46,8 +46,8 @@ Kural ihlallerine karşılık gelen ceza sürelerini aşağıda bulabilirsiniz.
 | **Money Farming**                        |   Karakter yasağı veya aktarılan eşyaların/paranın silinmesi.                          |  Yetkili inisiyatifindedir.                                                         |
 | **OOC Ticaret**                        |  Kalıcı yasaklama.                           |  Kalıcı yasaklama uygulanır.                                                         |
 | **Dolandırıcılık**                        | 300 - 600                            |   Karakter yasağı/hesap yasağı uygulanabilir.                                                        |
-| **ADK**                        |    180 - 400                         | Sürekli yapılması halinde karakter veya hesap yasağı uygulanabilir.                                                          |
-| **DDK - MDK**                        |    200 - 500                         | Düzeyine göre karakter veya hesap yasaklaması uygulanabilir.                                                           |
+| **ADK**                        |    300 - 600                         | Tekrarında yasaklama uygulanabilir. Yetkili inisiyatifindedir.                                                          |
+| **DDK - MDK**                        |    300 - 600                         | Tekrarında yasaklama uygulanabilir. Yetkili inisiyatifindedir.                                                           |
  
 
 > 📝 **Not:** Cezalar, ihlalin tekrarlanması veya kasıtlı yapılması durumunda ağırlaştırılabilir.
