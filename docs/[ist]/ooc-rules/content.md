@@ -144,6 +144,14 @@ Ahmet_Han_Basaran uygun bir isim değildir.)
 * Query kendini MİT ajanı olarak tanıtamaz.
 * Cleopatra kendini askeri istihbarat ajanı olarak tanıtamaz.
 
+### Mülk Başvuru Kuralları
+#### Açıklama:
+* Başvuru onaylandıktan sonra ilgili interior, **üç gün boyunca yalnızca başvuru sahibi tarafından satın alınabilir.** Bu süre içerisinde mülk başka bir oyuncu tarafından satın alınırsa, satın alan kişiye yalnızca mülk bedelinin %60’ı iade edilir.
+* Bu durumun geçerli olabilmesi için, başvuru sahibi üç gün içinde yönetimi bilgilendirmelidir.
+* Belirtilen üç günlük koruma süresi, başvuru sonuçlandıktan sonra başlar.
+
+
+
 ### Olmayan Karakter Özellikleri Belirtmek
 #### Açıklama:
 * Kullandığınız karakterinizin özelliklerini (karakter ismi, cinsiyet, yaş, ten rengi, uyruk) oyuna ilk girişinizde belirleyebilirsiniz. Sunucuda karakterinizle oynarken bu özelliklere göre hareket etmelisiniz. Karakter özelliklerinin daha sonradan değiştirilmesi söz konusu değildir.
@@ -183,8 +191,6 @@ Ahmet_Han_Basaran uygun bir isim değildir.)
 - Bir oyuncuyu 24 saat içinde maksimum bir kez gasp edebilirsiniz.
 - Gasp edilen kişi, role uymak durumundadır. Emotelarla birlikte cüzdanından ücret alındığında ./paraver komutu ile gasp edilen kişiye parayı vermelidir.
 - Politika tutarından fazla miktarda gasp etme veya kötüye kullanma durumunda, cezalandırma işlemi **Dolandırıcılık** kapsamında uygulanır.
-
-
 
 ### Money Farming
 #### Açıklama:
