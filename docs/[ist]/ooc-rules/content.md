@@ -161,6 +161,17 @@ Ahmet_Han_Basaran uygun bir isim değildir.)
 * Taciz rolleri, güvenli bölgelerde yapılamaz.
 * Bu tür bir role başlandığında role izin veren taraf, rolün ortasında herhangi bir gerekçe belirtmeden rolü reddedebilir ve kaçınabilir, bu gibi durumlar rolü reddetmek olarak değerlendirilmez. Bu tarz senaryolarda zorlama yapılmamalıdır.
 
+### Gasp Kuralı
+#### Açıklama:
+- Oyuncular, rol bütünlüğü ve ekonomik dengeyi korumak amacıyla gerçekleştirdikleri gasp eylemlerinde en fazla 2000₺ talep edebilirler. Gasp edilen miktar, oyuncunun üzerinde fiziksel olarak taşıdığı parayı temsil eder. Oyuncular bu role uygun şekilde hazırlıklı olmalı ve gasp eylemlerini gerçekçi, tehdit içeren ve sürekliliği olan rol çerçevesinde yürütmelidir.
+- Gasp rollerinde sadece politika tutarında para alabilirsiniz. Araç, silah, kıyafet, telefon vb. hiçbir eşya alınamaz. 
+- Gasp eylemleri tamamen rol ile ve gerçekçilik çerçevesinde gerçekleştirilmelidir. Tehdit unsuru barındırmalı ve role uygun diyalog/emote kullanılmalıdır.
+- Kalabalık veya kameralı alanlarda gasp yapılamaz..
+- Bir oyuncuyu 24 saat içinde maksimum bir kez gasp edebilirsiniz.
+- Gasp edilen kişi, role uymak durumundadır. Emotelarla birlikte cüzdanından ücret alındığında ./paraver komutu ile gasp edilen kişiye parayı vermelidir.
+- Politika tutarından fazla miktarda gasp etme veya kötüye kullanma durumunda, cezalandırma işlemi **Dolandırıcılık** kapsamında uygulanır.
+
+
 
 ### Money Farming
 #### Açıklama:
