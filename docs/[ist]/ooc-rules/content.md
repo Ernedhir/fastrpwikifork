@@ -45,9 +45,22 @@ Cezalandırma sürelerini buradan görüntüleyebilirsiniz:
 
 
 ### Yönetime / Yetkiliye Karşı Tutum
-
 #### Açıklama:
 * Belirli bir olay veya işlem sonrasında yetkiliye veya yönetime karşı olumsuz tutum sergilenmesi durumudur.
+
+### Şikayet / Kanıt Kuralları
+#### Açıklama: 
+- Oyuncular, yaşadıkları kural ihlallerini yetkililere iletmek üzere şikayette bulunabilir. Ancak bu şikayetlerin geçerli kabul edilebilmesi için belirli şartlar ve kanıt kriterlerine uyulması zorunludur.
+- **Şikayet süresi** 72 saattir. Bu süreden sonra yapılan başvurular zaman aşımına uğrar ve değerlendirmeye alınmaz. (İstisnai durumlar hariç.)
+- Şikayet edilen olayın başlangıcından sonuna kadar olan kısmı kesintisiz ve düzenli bir video kaydı ile kayıt altına alınmalıdır.
+- Video kayıtlarında ses net olmalıdır. Kısık veya tamamen kapalı sesle kaydedilmiş videolar, şikayetin seyrini etkileyebilir.
+- Şikayetlerde sunulan tüm kanıtlar ham dosya olmalı; kesilmiş, hızlandırılmış, filtrelenmiş veya düzenlenmiş videolar geçersiz sayılabilir.
+- Şikayet için kullanılacak video kaydı veya SS'ler kırpılmamış ve tam ekran olmak zorundadır.
+- Anlık ekran görüntüleri, yalnızca bazı özel durumlarda (küfür, açık itiraf, yazılı suistimal vb.) geçerli kabul edilir. Olayın bağlamını net yansıtmayan SS’ler tek başına yeterli değildir.
+- Şikayetler yalnızca [⚡Ticketlar](https://hub.fast-rp.com/ticket) üzerinden yapılmalıdır.
+- Yanıltıcı şikayette bulunmak, iftira amacıyla kanıt üretmek veya gerçeği gizlemek, şikayet eden oyuncunun cezalandırılmasıyla sonuçlanabilir.
+- Yetersiz kanıt, eksik video veya taraflı kayıtlar şikayetin düşmesine neden olabilir. Yetkili inisiyatifindedir.
+
 
 
 ### Şikayet Zaman Aşımı
