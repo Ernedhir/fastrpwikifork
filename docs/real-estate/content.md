@@ -3,7 +3,7 @@
 ⚡ Fast:V dünyasında sahip olabileceğiniz çeşitli mülklerin (rezidans, garaj, ofis, depo, işletme vb.) interior listesine ve görsellerine bu bölümden ulaşabilirsiniz. Başvurularınızda ilgili interior başlığını kullanarak tercihlerinizi belirtebilirsiniz.
 Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte artacak ve çeşitlendirilecektir.
 
-**Interior Başvuru Durumu:** **<span style="color:green;">AÇIK</span>**
+**Interior Başvuru Durumu:** **<span style="color:green;">AÇIK</span>** <br>
 **Interior Başvuru Alanı:** [⚡Fast:V Interior Başvuruları](https://hub.fast-rp.com/ist/forum/topic/288-mulk-basvurulari-sablonu)
 
 
